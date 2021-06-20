@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+
+    <head>
+      <style>
+        img{max-width:98% !important}
+      </style>
+      <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+      <b:if cond='data:blog.isMobile'>
+        <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/><b:else/>
+        <meta content='width=1100' name='viewport'/>
+      </b:if><b:include data='blog' name='all-head-content'/>
+      <title>
+        <data:blog.pageTitle/>
+      </title>
+      <b:skin><![CDATA[
+        /*
+      ]]></b:skin>
+      <script type='text/javascript'>
+        ;function disableSelection(target){if(typeof target.onselectstart!=&quot;undefined&quot;) target.onselectstart=function(){return false} else if(typeof target.style.MozUserSelect!=&quot;undefined&quot;) target.style.MozUserSelect=&quot;none&quot; else target.onmousedown=function(){return false} target.style.cursor=&quot;default&quot;}
+      </script>
+      <script>
+        shortcut.add(&quot;Ctrl+U&quot;,function(){alert(&#39;SorrynNo CTRL+U is allowed. Be creative!&#39;)}),
+      </script>
+    </head>
+
+    <body oncontextmenu='return false;'>
+      <div class='no-items section' id='ddd'/>
+      <iframe allowfullscreen='' frameborder='0' height='100%' marginheight='0px' marginwidth='0px' name='myiFrame' scrolling='no' src='https://education.educatenow.me/#/lasdfg23asdflkq23453wrsfdm2356fddta435awesfsd/U2FsdGVkX19wSElItFEM0UnpjVjYe1JvVi5CMJtTzuEEdQqLt' style='border:0px #ffffff none;' width='100%'/>
+      <script async='true' src='https://resources.blogblog.com/blogblog/data/res/4268249124-indie_compiled.js' type='text/javascript'/><b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'/>
+      <!--End Please keep the Credits intact-->
+      <script type='text/javascript'>
+        disableSelection(document.body)
+      </script>
+    </body>
+
+    </html>
+   
